@@ -61,3 +61,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#tex and pdf files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.tex
+worked_example_files/*
